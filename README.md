@@ -22,6 +22,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe-cjesus&show_icons=true&locale=en&layout=compact" alt="felipe-cjesus" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=felipe-cjesus&show_icons=true&theme=dracula" alt="felipe-cjesus2" /></p>
+
 <!--
 **Felipe-Cjesus/Felipe-Cjesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
